@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='asukiaaa_py_i2c_lcd',
-    version='0.1.1',
+    version='0.1.2',
     description='An i2c library to control AQM1602',
     url='https://github.com/asukiaaa/asukiaaa_py_i2c_lcd',
     author='Asuki Kono',

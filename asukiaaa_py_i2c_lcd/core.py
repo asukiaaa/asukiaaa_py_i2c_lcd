@@ -1,5 +1,6 @@
 import smbus
 
+AQM1602_ADDR = 0x3e
 LCD_SET_DDRAM_ADDR = 0x80
 
 class I2cLcd:
