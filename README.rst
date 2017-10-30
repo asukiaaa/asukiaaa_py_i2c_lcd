@@ -6,4 +6,5 @@ An i2c driver to control lcd from raspberry pi with python.
 References
 ==========
 
-`raspberry piでLCD（AQM1602）を使い、IPを表示する方法 <http://asukiaaa.blogspot.jp/2016/09/raspberry-pilcdaqm1602ip.html>`_
+* `raspberry piでLCD（AQM1602）を使い、IPを表示する方法 <http://asukiaaa.blogspot.jp/2016/09/raspberry-pilcdaqm1602ip.html>`_
+* `ストロベリー・リナックス/秋月電子のI2C液晶/OLEDほかをArduinoで使う <http://n.mtng.org/ele/arduino/i2c.html>`_
