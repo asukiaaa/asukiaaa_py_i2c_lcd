@@ -1,5 +1,5 @@
 asukiaaa_py_i2c_lcd
-================
+===================
 
 An i2c driver to control lcd from raspberry pi with python.
 
