@@ -11,8 +11,8 @@ Install
 
 .. code-block:: shell
 
-   sudo apt install python-pip
-   pip install asukiaaa_py_i2c_lcd
+   sudo apt install smbus python-pip
+   sudo pip install asukiaaa_py_i2c_lcd
 
 Activate I2C of raspberry pi
 ----------------------------
