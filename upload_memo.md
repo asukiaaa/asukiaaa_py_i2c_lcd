@@ -3,8 +3,9 @@
 Update version in `setup.py` and execute the following commands.
 
 ```
+sudo pip3 install twine
 sudo rm -r dist
-python setup.py sdist bdist_wheel
+sudo python3 setup.py sdist bdist_wheel
 twine upload dist/*
 ```
 
